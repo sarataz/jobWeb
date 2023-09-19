@@ -1,0 +1,276 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #333;
+  font-size: 13px;
+  margin: 0;
+  height: 100vh;
+}
+
+input,
+textarea,
+select,
+button {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #333;
+  font-size: 13px;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+  margin: 0;
+}
+
+nav {
+  width: 100%;
+  background-color: #333;
+  z-index: 111;
+  height: 12vh;
+  margin-bottom: 10px;
+  opacity: 0.9;
+}
+.icon {
+  width: 500px;
+  height: 100px;
+  flex-direction: column;
+}
+.nav-area {
+  float: center;
+  list-style: none;
+  margin-top: 30px;
+}
+.nav-area li {
+  float: right;
+}
+.nav-area li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 20px;
+
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.nav-area li a:hover {
+  background: #fff;
+  color: #333;
+  border-radius: 10px;
+}
+.logo {
+  float: left;
+  margin-right: 110px;
+}
+.logo img {
+  width: 20%;
+  padding: 0px;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  padding-left: 0;
+  margin-bottom: 0;
+  flex-direction: column;
+}
+/*resposive*/
+
+@media (max-width: 600px) {
+  .inner {
+    width: 76%;
+  }
+  .logo {
+    width: 29%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .nav-area {
+    margin-top: 20px;
+  }
+  .nav-area li a {
+    padding: 5px;
+    font-size: 11px;
+  }
+  .nav-area {
+    text-align: center;
+  }
+}
+a:hover {
+  text-decoration: none;
+}
+
+:focus {
+  outline: none;
+}
+
+.wrapper {
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+}
+
+.inner {
+  background: #fff;
+  max-width: 850px;
+  margin: auto;
+  display: flex;
+  border-radius: 10px;
+  width: 30%;
+}
+.inner .image-holder {
+  width: 50%;
+  height: 80px;
+}
+.inner form {
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-bottom: 40px;
+}
+.inner h3 {
+  text-transform: uppercase;
+  font-size: 25px;
+
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.form-group {
+  display: flex;
+}
+.form-group input {
+  width: 50%;
+}
+.form-group input:first-child {
+  margin-right: 25px;
+}
+
+.form-wrapper {
+  position: relative;
+}
+.form-wrapper i {
+  position: absolute;
+  bottom: 9px;
+  right: 0;
+}
+
+.form-control {
+  border: 1px solid #333;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  display: block;
+  width: 100%;
+  height: 30px;
+  padding: 0;
+  margin-bottom: 25px;
+}
+.form-control::-webkit-input-placeholder {
+  font-size: 13px;
+  color: #333;
+}
+.form-control::-moz-placeholder {
+  font-size: 13px;
+  color: #333;
+}
+.form-control:-ms-input-placeholder {
+  font-size: 13px;
+  color: #333;
+}
+.form-control:-moz-placeholder {
+  font-size: 13px;
+  color: #333;
+}
+
+select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  padding-left: 20px;
+}
+select option[value=""][disabled] {
+  display: none;
+}
+
+.btn {
+  border-radius: 10px;
+  width: 115px;
+  height: 41px;
+  margin: auto;
+  margin-top: 40px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  background: #333;
+  font-size: 15px;
+  color: #fff;
+}
+
+button i {
+  margin-left: 10px;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+@media (max-width: 1199px) {
+  .wrapper {
+    background-position: right center;
+  }
+}
+@media (max-width: 991px) {
+  .inner form {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .inner {
+    display: block;
+  }
+  .inner .image-holder {
+    width: 100%;
+  }
+  .inner form {
+    width: 100%;
+    padding: 40px 0 30px;
+  }
+
+  button {
+    margin-top: 60px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
+.footer {
+  padding-top: 8px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  margin-top: 200px;
+}
