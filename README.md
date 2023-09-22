@@ -26,14 +26,14 @@
 
 Here are some screenshots of the app in action:
 
-<p align="left">
+<p align="center">
   <img src="pic/homepage .png" alt="logo" width="400" height="300" >   <img src="pic/homee.png" alt="logo" width="400" height="300"> <img src="pic/admin.png" alt="logo" width="400" height="300">  <img src="pic/provieder.png" alt="logo" width="400" height="300">
 </p>
 
 
 ## languages used 
 
-<p align="center">
+<p align="left">
   <img src="pic/html.png" alt="html" width="40" height="30" >   <img src="pic/css.png" alt="css" width="40" height="30"> <img src="pic/PHP-logo.svg.png" alt="php" width="40" height="30">  
 </p>
 
