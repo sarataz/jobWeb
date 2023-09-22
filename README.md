@@ -10,6 +10,7 @@
 
 - [Description](#Description)
 - [installation](#installation)
+- [#Screenshots](#Screenshots)
 
 
   ## Description 
@@ -17,7 +18,7 @@
 
 
 ## installation 
- <p> Feel free to explore the app and see these features in action! </p>  
+ <p style="font-size: 24;"> Feel free to explore the app and see these features in action! </p>  
  by downloading the files and try it.
 
 
