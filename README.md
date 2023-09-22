@@ -2,7 +2,7 @@
 
 # Project Title
 
-![My Image]("pic\DB-logo.png")
+![My Image](pic/DB-logo.png)
 
 
 
