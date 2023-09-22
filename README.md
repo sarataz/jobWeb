@@ -10,10 +10,10 @@
 
 - [Description](#Description)
 - [installation](#installation)
-- [#Screenshots](#Screenshots)
+- [Screenshots](#Screenshots)
 
 
-  ## Description 
+ ## Description 
  A job website  that serves both job seekers and job providers
 
 
