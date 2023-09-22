@@ -2,7 +2,7 @@
 
 # Project Title
 
-![My Image]("C:\Users\Tech\Desktop\mycv, work\web2 project\project\images\DB-logo.png")
+![My Image]("pic\DB-logo.png")
 
 
 
