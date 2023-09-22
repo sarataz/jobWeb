@@ -26,7 +26,7 @@
 Here are some screenshots of the app in action:
 
 <p align="center">
-  <img src="pic/homepage .png" alt="logo" width="300" height="200" >   <img src="pic/homee.png" alt="logo" width="300" height="200"> <img src="pic/admin.png" alt="logo" width="300" height="200">  <img src="pic/provieder.png" alt="logo" width="300" height="200">
+  <img src="pic/homepage .png" alt="logo" width="400" height="300" >   <img src="pic/homee.png" alt="logo" width="400" height="300"> <img src="pic/admin.png" alt="logo" width="400" height="300">  <img src="pic/provieder.png" alt="logo" width="400" height="300">
 </p>
 
 
