@@ -1,7 +1,7 @@
 # jobWeb
 
 <p align="center">
-  <img src="pic/DB-logo.png" alt="logo">
+  <img src="pic/DB-logo.png" alt="logo" width="400" height="300">
 </p>
 
 
