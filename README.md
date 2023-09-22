@@ -25,7 +25,7 @@ You can have a look at the website by downloading the files and try it.
 Here are some screenshots of the app in action:
 
 <p align="center">
-  <img src="pic/homepage.png" alt="logo">   <img src="pic/homee.png" alt="logo"> <img src="pic/admin.png" alt="logo">  <img src="pic/provieder.png" alt="logo">
+  <img src="pic/homepage .png" alt="logo">   <img src="pic/homee.png" alt="logo"> <img src="pic/admin.png" alt="logo">  <img src="pic/provieder.png" alt="logo">
 </p>
 
 
