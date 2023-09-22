@@ -2,8 +2,9 @@
 
 # Project Title
 
-![My Image](pic/DB-logo.png)
-
+<p align="center">
+  <img src="pic/DB-logo.png" alt="My Image">
+</p>
 
 
 
