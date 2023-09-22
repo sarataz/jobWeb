@@ -17,7 +17,8 @@
 
 
 ## installation 
-You can have a look at the website by downloading the files and try it.
+ <p> Feel free to explore the app and see these features in action! </p>  
+ by downloading the files and try it.
 
 
 ## Screenshots
@@ -25,7 +26,7 @@ You can have a look at the website by downloading the files and try it.
 Here are some screenshots of the app in action:
 
 <p align="center">
-  <img src="pic/homepage .png" alt="logo">   <img src="pic/homee.png" alt="logo"> <img src="pic/admin.png" alt="logo">  <img src="pic/provieder.png" alt="logo">
+  <img src="pic/homepage .png" alt="logo" width="300" height="200" >   <img src="pic/homee.png" alt="logo" width="300" height="200"> <img src="pic/admin.png" alt="logo" width="300" height="200">  <img src="pic/provieder.png" alt="logo" width="300" height="200">
 </p>
 
 
