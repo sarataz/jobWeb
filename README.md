@@ -18,7 +18,7 @@
 
 
 ## installation 
- <p style="font-size: 24;"> Feel free to explore the app and see these features in action! </p>  
+ <p style="font-size: 24 px  ;"> Feel free to explore the app and see these features in action! </p>  
  by downloading the files and try it.
 
 
