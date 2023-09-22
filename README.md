@@ -34,7 +34,7 @@ Here are some screenshots of the app in action:
 ## languages used 
 
 <p align="center">
-  <img src="html.png" alt="html" width="40" height="30" >   <img src="css.png" alt="css" width="40" height="30"> <img src="php.png" alt="php" width="40" height="00">  
+  <img src="pic/html.png" alt="html" width="40" height="30" >   <img src="pic/css.png" alt="css" width="40" height="30"> <img src="pic/php.png" alt="php" width="40" height="00">  
 </p>
 
 
