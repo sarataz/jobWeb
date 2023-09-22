@@ -31,6 +31,12 @@ Here are some screenshots of the app in action:
 </p>
 
 
+## languages used 
+
+<p align="center">
+  <img src="800px-HTML5_Badge.svg.png" alt="html" width="40" height="30" >   <img src="CSS3_logo.svg.png" alt="css" width="40" height="30"> <img src="PHP-logo.svg.png" alt="php" width="40" height="00">  
+</p>
+
 
 
 
